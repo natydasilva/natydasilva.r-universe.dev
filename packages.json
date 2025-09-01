@@ -2,5 +2,14 @@
     {
         "package": "PPtreeExt",
         "url": "https://github.com/natydasilva/PPtreeExt"
-    }
+    },
+    {
+        "package": "PPforest",
+        "url": "https://github.com/natydasilva/PPforest",
+        },
+        
+        "package": "SpICE",
+        url": "https://github.com/natydasilva/SpICE"
+        }
+        
 ]
